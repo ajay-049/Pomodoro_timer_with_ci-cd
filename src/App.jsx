@@ -236,7 +236,7 @@ function App() {
     <main className={`app-shell ${sessionType}`}>
       <section className="hero-card" aria-labelledby="timer-title">
         <div className="hero-copy">
-          <p className="eyebrow">Pomodoro Flow</p>
+          <p className="eyebrow">Pomodoro Flow and help to focus.</p>
           <h1 id="timer-title">Stay in rhythm, one focused session at a time.</h1>
           <p className="lede">
             A distraction-light timer with flexible intervals, clear session tracking, and
