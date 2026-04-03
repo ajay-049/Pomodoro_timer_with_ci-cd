@@ -365,7 +365,7 @@ function App() {
         </form>
 
         <div className="tips-panel" aria-labelledby="tips-title">
-          <h3 id="tips-title">Using The Timer Well rwer werwer wer wer</h3>
+          <h3 id="tips-title">Using The Timer Well.</h3>
           <ul>
             <li>Use Work for focused effort, then let the app guide you into a Short or Long Break.</li>
             <li>The completed session counter increases only after a full work session ends.</li>
